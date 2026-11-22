@@ -19,7 +19,7 @@ Hi, I'm Dilshan. I'm a final-year IT student in Bangkok. I like projects where t
       <p>A 3D PC builder in the browser. Pick parts and it checks straight away whether they fit. Then build the PC by hand, cables included, or press Auto-build and watch it assemble and power on.</p>
       <p><b>342</b> real parts · <b>9</b> categories · a rule-based compatibility engine</p>
       <p><code>JavaScript</code> <code>three.js</code> <code>Netlify</code></p>
-      <p><a href="https://rigsmith.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07-crypto/rigsmith">Code</a></p>
+      <p><a href="https://rigsmith.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07/rigsmith">Code</a></p>
     </td>
   </tr>
   <tr>
@@ -28,7 +28,7 @@ Hi, I'm Dilshan. I'm a final-year IT student in Bangkok. I like projects where t
       <p>A route finder for Bangkok's trains. It gives the fastest route, the platform for every ride and the fare for adults, students and seniors, in English or Thai.</p>
       <p><b>10</b> lines · <b>195</b> stations · Dijkstra's algorithm for routing</p>
       <p><code>JavaScript</code> <code>SVG</code> <code>Netlify</code></p>
-      <p><a href="https://metro-buddy.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07-crypto/metro-buddy">Code</a></p>
+      <p><a href="https://metro-buddy.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07/metro-buddy">Code</a></p>
     </td>
     <td width="56%" valign="middle">
       <a href="https://metro-buddy.netlify.app"><img src="assets/metro-buddy.png" alt="Metro Buddy route from Siam to Suvarnabhumi with platforms and fares" width="100%"></a>
@@ -43,7 +43,7 @@ Hi, I'm Dilshan. I'm a final-year IT student in Bangkok. I like projects where t
       <p>Pick a mood and a part of town and it ranks cafés that match, with a reason for each one. It also has a chat "barista", a map and a café crawl planner.</p>
       <p><b>160</b> hand-picked cafés · <b>471</b> more from OpenStreetMap</p>
       <p><code>JavaScript</code> <code>Leaflet</code> <code>Netlify Forms</code></p>
-      <p><a href="https://kafebangkok.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07-crypto/kafe-bangkok">Code</a></p>
+      <p><a href="https://kafebangkok.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07/kafe-bangkok">Code</a></p>
     </td>
   </tr>
   <tr>
