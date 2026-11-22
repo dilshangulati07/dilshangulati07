@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Dilshan Gulati. I build web apps, 3D tools and a voice assistant that runs on my own PC. Final-year IT student in Bangkok.">
+  <defs>
+    <linearGradient id="route" gradientUnits="userSpaceOnUse" x1="712" y1="0" x2="1170" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <clipPath id="map"><rect x="680" y="24" width="496" height="312" rx="14"/></clipPath>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="#0e1217"/>
+
+  <!-- left: who I am -->
+  <text x="56" y="80" font-family="ui-monospace, 'Cascadia Code', SFMono-Regular, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="2.4" fill="#2dd4bf">DILSHAN GULATI</text>
+  <text font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#eef2f6" letter-spacing="-0.6">
+    <tspan x="56" y="138">I build web apps, 3D tools</tspan>
+    <tspan x="56" y="184">and a voice assistant that</tspan>
+    <tspan x="56" y="230">runs on my own PC.</tspan>
+  </text>
+  <rect x="56" y="262" width="296" height="32" rx="16" fill="#1c242d"/>
+  <circle cx="76" cy="278" r="5" fill="#2dd4bf"/>
+  <text x="90" y="283" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14.5" fill="#93a1b0">Final-year IT student · Bangkok</text>
+
+  <!-- right: projects as a rail line -->
+  <rect x="680" y="24" width="496" height="312" rx="14" fill="#151b22"/>
+  <g clip-path="url(#map)"><line x1="700" y1="24" x2="700" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="740" y1="24" x2="740" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="780" y1="24" x2="780" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="820" y1="24" x2="820" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="860" y1="24" x2="860" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="900" y1="24" x2="900" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="940" y1="24" x2="940" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="980" y1="24" x2="980" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="1020" y1="24" x2="1020" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="1060" y1="24" x2="1060" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="1100" y1="24" x2="1100" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="1140" y1="24" x2="1140" y2="336" stroke="#1c242d" stroke-width="1"/><line x1="1180" y1="24" x2="1180" y2="336" stroke="#1c242d" stroke-width="1"/></g>
+  <path d="M 884 118 V 300" fill="none" stroke="#5b6776" stroke-width="6" stroke-dasharray="2 12" stroke-linecap="round"/>
+  <circle cx="884" cy="300" r="7" fill="#0e1217" stroke="#5b6776" stroke-width="3"/>
+  <text x="904" y="297" font-family="ui-monospace, 'Cascadia Code', SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.1" fill="#93a1b0">TEAM LINE</text>
+  <text x="904" y="313" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a1b0">horror game in Godot</text>
+  <path id="track" d="M 712 118 H 922 L 1010 206 H 1156" fill="none" stroke="url(#route)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <circle cx="742" cy="118" r="9" fill="#0e1217" stroke="#eef2f6" stroke-width="3.5"/>
+  <text x="742" y="78" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', SFMono-Regular, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="1.2" fill="#eef2f6">RIGSMITH</text>
+  <text x="742" y="95" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a1b0">3D PC builder</text>
+  <circle cx="884" cy="118" r="9" fill="#0e1217" stroke="#eef2f6" stroke-width="3.5"/>
+  <text x="884" y="78" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', SFMono-Regular, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="1.2" fill="#eef2f6">METRO BUDDY</text>
+  <text x="884" y="95" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a1b0">rail routes + fares</text>
+  <circle cx="1046" cy="206" r="9" fill="#0e1217" stroke="#eef2f6" stroke-width="3.5"/>
+  <text x="1046" y="166" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', SFMono-Regular, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="1.2" fill="#eef2f6">KAFÉ BANGKOK</text>
+  <text x="1046" y="183" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a1b0">café finder</text>
+  <circle cx="1124" cy="206" r="9" fill="#0e1217" stroke="#eef2f6" stroke-width="3.5"/>
+  <text x="1124" y="240" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', SFMono-Regular, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="1.2" fill="#eef2f6">JARVIS</text>
+  <text x="1124" y="257" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#93a1b0">voice assistant</text>
+  <circle r="5" fill="#eef2f6">
+    <animateMotion dur="9s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#track"/>
+    </animateMotion>
+  </circle>
+</svg>
