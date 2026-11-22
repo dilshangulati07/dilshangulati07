@@ -38,7 +38,7 @@
   <text x="1046" y="166" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', SFMono-Regular, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="1.2" fill="#151a20">KAFÉ BANGKOK</text>
   <text x="1046" y="183" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6573">café finder</text>
   <circle cx="1124" cy="206" r="9" fill="#fffdf8" stroke="#151a20" stroke-width="3.5"/>
-  <text x="1124" y="240" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', SFMono-Regular, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="1.2" fill="#151a20">JARVIS</text>
+  <text x="1124" y="240" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', SFMono-Regular, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="1.2" fill="#151a20">VELOS</text>
   <text x="1124" y="257" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6573">voice assistant</text>
   <circle r="5" fill="#151a20">
     <animateMotion dur="9s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">

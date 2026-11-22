@@ -25,7 +25,7 @@ STATIONS = [
     (742, 118, "RIGSMITH", "3D PC builder", "up"),
     (884, 118, "METRO BUDDY", "rail routes + fares", "up"),
     (1046, 206, "KAFÉ BANGKOK", "café finder", "up"),
-    (1124, 206, "JARVIS", "voice assistant", "down"),
+    (1124, 206, "VELOS", "voice assistant", "down"),
 ]
 LINE = "M 712 118 H 922 L 1010 206 H 1156"
 BRANCH = "M 884 118 V 300"
