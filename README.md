@@ -5,21 +5,21 @@
 
 Hi, I'm Dilshan. I'm a final-year IT student in Bangkok. I like projects where the details have to be right: real PC parts that must fit together, real train fares, real cafés with real opening hours. When my apps can't check something, they say so instead of guessing.
 
-**Try them live:** [Rigsmith](https://rigsmith.netlify.app) · [Metro Buddy](https://metro-buddy.netlify.app) · [Kafé Bangkok](https://kafebangkok.netlify.app)
+**Try them live:** [Rigsmith](https://rigpc.netlify.app) · [Metro Buddy](https://metro-buddy.netlify.app) · [Kafé Bangkok](https://kafebangkok.netlify.app)
 
 ## Projects
 
 <table>
   <tr>
     <td width="56%" valign="middle">
-      <a href="https://rigsmith.netlify.app"><img src="assets/rigsmith.jpg" alt="Rigsmith home page: a white PC build rendered live in 3D" width="100%"></a>
+      <a href="https://rigpc.netlify.app"><img src="assets/rigsmith.jpg" alt="Rigsmith home page: a white PC build rendered live in 3D" width="100%"></a>
     </td>
     <td width="44%" valign="middle">
       <h3>Rigsmith</h3>
       <p>A 3D PC builder in the browser. Pick parts and it checks straight away whether they fit. Then build the PC by hand, cables included, or press Auto-build and watch it assemble and power on.</p>
       <p><b>342</b> real parts · <b>9</b> categories · a rule-based compatibility engine</p>
       <p><code>JavaScript</code> <code>three.js</code> <code>Netlify</code></p>
-      <p><a href="https://rigsmith.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07/rigsmith">Code</a></p>
+      <p><a href="https://rigpc.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07/rigsmith">Code</a></p>
     </td>
   </tr>
   <tr>
@@ -48,14 +48,14 @@ Hi, I'm Dilshan. I'm a final-year IT student in Bangkok. I like projects where t
   </tr>
   <tr>
     <td width="44%" valign="middle">
-      <h3>Jarvis</h3>
+      <h3>Velos</h3>
       <p>A voice assistant that runs completely on my own PC, with a local AI model on the graphics card. My phone and laptop connect to it, so I can control the PC and run coding sessions from anywhere.</p>
-      <p><b>600+</b> tests · memory cut from <b>1.9 GB</b> to <b>~260 MB</b> · no paid APIs</p>
+      <p><b>877</b> tests · memory cut from <b>1.9 GB</b> to <b>~260 MB</b> · no paid APIs</p>
       <p><code>Python</code> <code>FastAPI</code> <code>Ollama</code> <code>faster-whisper</code> <code>Piper</code></p>
       <p><sub>Private repository</sub></p>
     </td>
     <td width="56%" valign="middle" align="center">
-      <img src="assets/jarvis-phone.png" alt="Jarvis phone app home screen with PC status, quick actions and routines" width="220">
+      <img src="assets/velos-phone.png" alt="Velos phone app home screen with PC status, quick actions and routines" width="220">
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@ I also work on **Whispers of the River**, a first-person horror game in Godot 4,
 
 - **Honest data.** Fares are labelled *official*, *checked* or *estimate*. Prices say "reference price, not live". A spec nobody could confirm stays empty and is never guessed.
 - **Plain web platform first.** Three of my apps are plain HTML, CSS and JavaScript, with no framework and no build step. They load fast and are easy to read.
-- **Tested.** pytest for Jarvis, plus Node scripts and headless Chrome for the web apps.
+- **Tested.** pytest for Velos, plus Node scripts and headless Chrome for the web apps.
 - **For everyone.** Mobile first, keyboard friendly, WCAG AA contrast, reduced-motion support, and Thai and English.
 
 ## What I use
