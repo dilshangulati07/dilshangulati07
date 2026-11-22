@@ -5,21 +5,21 @@
 
 Hi, I'm Dilshan. I'm a final-year IT student in Bangkok. I like projects where the details have to be right: real PC parts that must fit together, real train fares, real cafés with real opening hours. When my apps can't check something, they say so instead of guessing.
 
-**Try them live:** [Rigsmith](https://rigpc.netlify.app) · [Metro Buddy](https://metro-buddy.netlify.app) · [Kafé Bangkok](https://kafebangkok.netlify.app)
+**Try them live:** [Rigsmith](https://rigsmith.pages.dev) · [Metro Buddy](https://metro-buddy.pages.dev) · [Kafé Bangkok](https://kafebangkok.netlify.app)
 
 ## Projects
 
 <table>
   <tr>
     <td width="56%" valign="middle">
-      <a href="https://rigpc.netlify.app"><img src="assets/rigsmith.jpg" alt="Rigsmith home page: a white PC build rendered live in 3D" width="100%"></a>
+      <a href="https://rigsmith.pages.dev"><img src="assets/rigsmith.jpg" alt="Rigsmith home page: a white PC build rendered live in 3D" width="100%"></a>
     </td>
     <td width="44%" valign="middle">
       <h3>Rigsmith</h3>
       <p>A 3D PC builder in the browser. Pick parts and it checks straight away whether they fit. Then build the PC by hand, cables included, or press Auto-build and watch it assemble and power on.</p>
       <p><b>342</b> real parts · <b>9</b> categories · a rule-based compatibility engine</p>
       <p><code>JavaScript</code> <code>three.js</code> <code>Netlify</code></p>
-      <p><a href="https://rigpc.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07/rigsmith">Code</a></p>
+      <p><a href="https://rigsmith.pages.dev">Live demo</a> · <a href="https://github.com/dilshangulati07/rigsmith">Code</a></p>
     </td>
   </tr>
   <tr>
@@ -28,10 +28,10 @@ Hi, I'm Dilshan. I'm a final-year IT student in Bangkok. I like projects where t
       <p>A route finder for Bangkok's trains. It gives the fastest route, the platform for every ride and the fare for adults, students and seniors, in English or Thai.</p>
       <p><b>10</b> lines · <b>195</b> stations · Dijkstra's algorithm for routing</p>
       <p><code>JavaScript</code> <code>SVG</code> <code>Netlify</code></p>
-      <p><a href="https://metro-buddy.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07/metro-buddy">Code</a></p>
+      <p><a href="https://metro-buddy.pages.dev">Live demo</a> · <a href="https://github.com/dilshangulati07/metro-buddy">Code</a></p>
     </td>
     <td width="56%" valign="middle">
-      <a href="https://metro-buddy.netlify.app"><img src="assets/metro-buddy.png" alt="Metro Buddy route from Siam to Suvarnabhumi with platforms and fares" width="100%"></a>
+      <a href="https://metro-buddy.pages.dev"><img src="assets/metro-buddy.png" alt="Metro Buddy route from Siam to Suvarnabhumi with platforms and fares" width="100%"></a>
     </td>
   </tr>
   <tr>
