@@ -5,7 +5,7 @@
 
 Hi, I'm Dilshan. I'm a final-year IT student in Bangkok. I like projects where the details have to be right: real PC parts that must fit together, real train fares, real cafés with real opening hours. When my apps can't check something, they say so instead of guessing.
 
-**Try them live:** [Rigsmith](https://rigsmith.pages.dev) · [Metro Buddy](https://metro-buddy.pages.dev) · [Kafé Bangkok](https://kafebangkok.netlify.app)
+**Try them live:** [Rigsmith](https://rigsmith.pages.dev) · [Metro Buddy](https://metro-buddy.pages.dev) · [Kafé Bangkok](https://kafe-bangkok.pages.dev)
 
 ## Projects
 
@@ -36,14 +36,14 @@ Hi, I'm Dilshan. I'm a final-year IT student in Bangkok. I like projects where t
   </tr>
   <tr>
     <td width="56%" valign="middle">
-      <a href="https://kafebangkok.netlify.app"><img src="assets/kafe-bangkok.png" alt="Kafé Bangkok home page: Find your Bangkok café, today" width="100%"></a>
+      <a href="https://kafe-bangkok.pages.dev"><img src="assets/kafe-bangkok.png" alt="Kafé Bangkok home page: Find your Bangkok café, today" width="100%"></a>
     </td>
     <td width="44%" valign="middle">
       <h3>Kafé Bangkok</h3>
       <p>Pick a mood and a part of town and it ranks cafés that match, with a reason for each one. It also has a chat "barista", a map and a café crawl planner.</p>
       <p><b>160</b> hand-picked cafés · <b>471</b> more from OpenStreetMap</p>
       <p><code>JavaScript</code> <code>Leaflet</code> <code>Netlify Forms</code></p>
-      <p><a href="https://kafebangkok.netlify.app">Live demo</a> · <a href="https://github.com/dilshangulati07/kafe-bangkok">Code</a></p>
+      <p><a href="https://kafe-bangkok.pages.dev">Live demo</a> · <a href="https://github.com/dilshangulati07/kafe-bangkok">Code</a></p>
     </td>
   </tr>
   <tr>
