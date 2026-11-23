@@ -7,6 +7,8 @@ Hi, I'm Dilshan. I'm a final-year IT student in Bangkok. I like projects where t
 
 **Try them live:** [Rigsmith](https://rigsmith.pages.dev) · [Metro Buddy](https://metro-buddy.pages.dev) · [Kafé Bangkok](https://kafe-bangkok.pages.dev)
 
+Portfolio: https://dilshangulati.pages.dev
+
 ## Projects
 
 <table>
