@@ -20,7 +20,7 @@ Portfolio: https://dilshangulati.pages.dev
       <h3>Rigsmith</h3>
       <p>A 3D PC builder in the browser. Pick parts and it checks straight away whether they fit. Then build the PC by hand, cables included, or press Auto-build and watch it assemble and power on.</p>
       <p><b>342</b> real parts · <b>9</b> categories · a rule-based compatibility engine</p>
-      <p><code>JavaScript</code> <code>three.js</code> <code>Netlify</code></p>
+      <p><code>JavaScript</code> <code>three.js</code> <code>Cloudflare D1</code></p>
       <p><a href="https://rigsmith.pages.dev">Live demo</a> · <a href="https://github.com/dilshangulati07/rigsmith">Code</a></p>
     </td>
   </tr>
@@ -29,7 +29,7 @@ Portfolio: https://dilshangulati.pages.dev
       <h3>Metro Buddy</h3>
       <p>A route finder for Bangkok's trains. It gives the fastest route, the platform for every ride and the fare for adults, students and seniors, in English or Thai.</p>
       <p><b>10</b> lines · <b>195</b> stations · Dijkstra's algorithm for routing</p>
-      <p><code>JavaScript</code> <code>SVG</code> <code>Netlify</code></p>
+      <p><code>JavaScript</code> <code>SVG</code> <code>Cloudflare D1</code></p>
       <p><a href="https://metro-buddy.pages.dev">Live demo</a> · <a href="https://github.com/dilshangulati07/metro-buddy">Code</a></p>
     </td>
     <td width="56%" valign="middle">
@@ -44,7 +44,7 @@ Portfolio: https://dilshangulati.pages.dev
       <h3>Kafé Bangkok</h3>
       <p>Pick a mood and a part of town and it ranks cafés that match, with a reason for each one. It also has a chat "barista", a map and a café crawl planner.</p>
       <p><b>160</b> hand-picked cafés · <b>471</b> more from OpenStreetMap</p>
-      <p><code>JavaScript</code> <code>Leaflet</code> <code>Netlify Forms</code></p>
+      <p><code>JavaScript</code> <code>Leaflet</code> <code>Cloudflare D1</code></p>
       <p><a href="https://kafe-bangkok.pages.dev">Live demo</a> · <a href="https://github.com/dilshangulati07/kafe-bangkok">Code</a></p>
     </td>
   </tr>
@@ -62,6 +62,8 @@ Portfolio: https://dilshangulati.pages.dev
   </tr>
 </table>
 
+All three web apps share one backend I wrote: a Cloudflare D1 database and a private admin dashboard where I edit the data, approve community posts, see analytics and publish changes back to GitHub in one click.
+
 I also work on **Whispers of the River**, a first-person horror game in Godot 4, as part of a team.
 
 ## How I build
@@ -75,7 +77,7 @@ I also work on **Whispers of the River**, a first-person horror game in Godot 4,
 
 | Area | Tools |
 |---|---|
-| **Web** | HTML · CSS · JavaScript (ES modules) · SVG · Leaflet · Netlify |
+| **Web** | HTML · CSS · JavaScript (ES modules) · SVG · Leaflet · Cloudflare Pages and Functions · D1 (SQL) |
 | **3D and games** | three.js · Godot 4 · GDScript |
 | **Python and AI** | Python · FastAPI · pytest · Ollama · faster-whisper · Piper |
 | **Tools** | Git · GitHub · Node.js · Tailscale |
